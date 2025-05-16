@@ -5,7 +5,7 @@ from typing import Dict, Optional
 
 class SignupApp:
     def __init__(self):
-        self.API_URL = "https://auth-service-101415335665.asia-south1.run.app"  
+        self.API_URL = "https://auth-page-2.cloudjiffy.net/"  
     
     @staticmethod
     def is_valid_email(email: str) -> bool:
